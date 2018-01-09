@@ -17,9 +17,15 @@ CSS Grid: not supported on IE (Desktop), not supported on Opera (Mobile)
 Clone repository or download .zip and unzip it. Install dependencies:
 
 ```
-cd react-ret-contact-list-master
+cd react-rest-contact-list-master
 npm install
 ```
+
+### Config
+
+Edit src/app.jsx and configure API url and port on constructor state "api"
+
+### Running
 
 Run development server:
 
