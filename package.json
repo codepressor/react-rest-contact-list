@@ -1,0 +1,27 @@
+{
+  "name": "react-rest-contact-list",
+  "version": "1.0.0",
+  "description": "React Rest Contact List",
+  "main": "index.js",
+  "repository": "https://github.com/codepressor/react-rest-contact-list",
+  "scripts": {
+    "watch": "webpack -d --watch",
+    "build": "webpack",
+    "serve": "serve ./public"
+  },
+  "keywords": ["react", "routing", "rest", "api", "example"],
+  "author": "codepressor",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "serve": "^6.4.3",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2"
+  }
+}
