@@ -35,9 +35,9 @@ Watch for code modifications:
 npm run watch
 ```
 
-## Deployment
+### RESTful API
 
-TO DO
+Please check my Node.js MySQL RESTful API implementation for this project: [Node.js MySQL RESTful API](https://github.com/codepressor/node-contact-api)
 
 ## Built With
 
